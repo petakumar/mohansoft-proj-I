@@ -2,7 +2,7 @@ public class HelloWorld {
 
 	public static void main(String[] args){
 
-		System.out.println("HELLO,MOHANSOFT.TK");
+		System.out.println("welcome to mohansoft.tk");
 
 	}
 
